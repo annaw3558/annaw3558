@@ -1,6 +1,6 @@
 ### Hi There, I'm Anna!
 ---
-I work in software development and data visualization at [Whitehorse Liquidity Partners](https://whitehorseliquidity.com/) and studied software design at [Queen's University](https://www.cs.queensu.ca/). I have over 5 years of technological experience from creating complex financial models, building cloud pipelines, database architecture and design, and teaching and creating coursework for coding classes. I'm always looking for new ways to apply myself in this ever changing industry! See some of my preferred languages, technologies, and applications below.
+I most recently worked in software development and data visualization at [Dawson Partners](https://dawsonpartners.com/) and studied software design at [Queen's University](https://www.cs.queensu.ca/). I have over 5 years of technological experience from creating complex financial models, building cloud pipelines, database architecture and design, and teaching and creating coursework for coding classes. I'm always looking for new ways to apply myself in this ever changing industry! See some of my preferred languages, technologies, and applications below.
 
 #### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
